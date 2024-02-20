@@ -7,7 +7,7 @@ Full Stack Software Developer
 A passionate full-stack developer.
 
 * 🌍  I'm based in Toronto Canada.
-* 🖥️  See my portfolio at [MyPortfolio.]([https://coding.4revolutionstore.com/])
+* 🖥️  See my portfolio at [MyPortfolio.](https://coding.4revolutionstore.com/)
 * ✉️  You can contact me at [carlos.serrano.prado@gmail.com](mailto:carlos.serrano.prado@gmail.com)
 * 🧠  I'm learning Data Science.
 
